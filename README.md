@@ -20,3 +20,32 @@ Kör
       sudo mysql -u root
 
  grant all privileges on *.* to 'Lucas'@'localhost' identified by 'password';
+ 
+ **I don't know**
+ 
+ mkdir 'public_hmtl' File exists
+ 
+ cd /etc/apache2/
+ 
+ sudo a2enmod userdir
+ 
+ sudo service apapche2 restart
+ 
+ localhost/~lucas
+ 
+ <?php phpinfo();?>
+ 
+ cd public_html
+ 
+ nano info.php
+ 
+ cd /etc/apache2/
+ 
+ cd sites-available/
+ 
+ nano 000-default.conf
+ 
+ cd /etc/a
+ 
+ 
+ 
